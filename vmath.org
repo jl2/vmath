@@ -1,0 +1,17 @@
+* vmath
+** About
+This is a simple library for vector, point, and color manipulation.
+
+** License
+ISC
+
+
+Copyright (c) 2018 Jeremiah LaRocco <jeremiah_larocco@fastmail.com>
+
+
+
+
+* Plan
+** TODO Add matrices?
+** TODO Add unit tests.
+** TODO Integrate into other projects.
